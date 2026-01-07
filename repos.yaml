@@ -1,0 +1,10 @@
+repositories:
+  # hardware_package:
+    # url: https://github.com/tomoswifty/robstride_driver.git
+    # version: main
+  description_package:
+    url: https://github.com/tomoswifty/satobot2_description.git
+    version: main
+  # navigation:
+    # url: https://github.com/xxx/navigation.git
+    # version: main
