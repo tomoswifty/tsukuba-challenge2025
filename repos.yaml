@@ -1,10 +1,25 @@
 repositories:
-  # hardware_package:
-    # url: https://github.com/tomoswifty/robstride_driver.git
-    # version: main
+  hardware_package:
+    url: https://github.com/tomoswifty/rs_motor_ros2.git
+    version: main
   description_package:
     url: https://github.com/tomoswifty/satobot2_description.git
     version: main
-  # navigation:
-    # url: https://github.com/xxx/navigation.git
-    # version: main
+  livox_mid360:
+    url: https://github.com/Livox-SDK/livox_ros_driver2.git
+    version: master
+  realsense_ros:
+    url: https://github.com/realsenseai/realsense-ros.git
+    version: ros2-master
+  pointcloud_to_laserscan:
+    url: https://github.com/tomoswifty/pointcloud_to_laserscan.git
+    version: humble
+  navigation:
+    url: hhttps://github.com/tomoswifty/msd_navigation.git
+    version: main
+  waypoint_editor:
+    url: https://github.com/tomoswifty/waypoint_editor.git
+    version: main
+  navigation_manager:
+    url: https://github.com/tomoswifty/navigation_manager.git
+    version: main
