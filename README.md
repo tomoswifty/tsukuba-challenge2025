@@ -24,7 +24,7 @@ python3 -m pip install -U vcstool
 # インストール
 ```
 cd ros2_ws/src/
-git clone <this-meta-repo-url>
+git clone https://github.com/tomoswifty/tsukuba-challenge2025.git
 mkdir -p src
 vcs import src < repos.yaml
 ```

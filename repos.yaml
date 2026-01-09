@@ -1,19 +1,24 @@
 repositories:
   hardware_package:
+    type: git
     url: https://github.com/tomoswifty/rs_motor_ros2.git
     version: main
   description_package:
+    type: git
     url: https://github.com/tomoswifty/satobot2_description.git
     version: main
   pointcloud_to_laserscan:
+    type: git
     url: https://github.com/tomoswifty/pointcloud_to_laserscan.git
     version: humble
   navigation:
     url: hhttps://github.com/tomoswifty/msd_navigation.git
     version: main
   waypoint_editor:
+    type: git
     url: https://github.com/tomoswifty/waypoint_editor.git
     version: main
   navigation_manager:
+    type: git
     url: https://github.com/tomoswifty/navigation_manager.git
     version: main
