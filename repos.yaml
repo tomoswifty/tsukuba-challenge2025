@@ -12,7 +12,8 @@ repositories:
     url: https://github.com/tomoswifty/pointcloud_to_laserscan.git
     version: humble
   navigation:
-    url: hhttps://github.com/tomoswifty/msd_navigation.git
+    type: git
+    url: https://github.com/tomoswifty/msd_navigation.git
     version: main
   waypoint_editor:
     type: git
