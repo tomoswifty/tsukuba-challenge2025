@@ -11,6 +11,10 @@ repositories:
     type: git
     url: https://github.com/tomoswifty/pointcloud_to_laserscan.git
     version: humble
+  lidar_Llocalization_ros2:
+    type: git
+    url: https://github.com/tomoswifty/lidar_localization_ros2.git
+    version: main
   msd_navigation:
     type: git
     url: https://github.com/tomoswifty/msd_navigation.git
